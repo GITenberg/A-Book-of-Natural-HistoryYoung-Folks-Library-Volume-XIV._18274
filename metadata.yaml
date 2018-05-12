@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1566
     wikipedia: http://en.wikipedia.org/wiki/David_Starr_Jordan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18274#A-Book-of-Natural-HistoryYoung-Folks-Library-Volume-XIV.
 gutenberg_bookshelf:
 - Children's Instructional Books
 - Children's Anthologies
